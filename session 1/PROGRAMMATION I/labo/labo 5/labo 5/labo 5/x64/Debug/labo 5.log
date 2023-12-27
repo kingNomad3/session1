@@ -1,0 +1,4 @@
+﻿  labo5.cpp
+X:\School\vieux\PROGRAMMATION I\labo\labo 5\labo 5\labo 5\labo5.cpp(289,15): warning C4244: 'argument' : conversion de 'double' en 'std::streamsize', perte possible de données
+X:\School\vieux\PROGRAMMATION I\labo\labo 5\labo 5\labo 5\labo5.cpp(291,23): warning C4244: 'argument' : conversion de 'double' en 'std::streamsize', perte possible de données
+  labo 5.vcxproj -> X:\School\vieux\PROGRAMMATION I\labo\labo 5\labo 5\x64\Debug\labo 5.exe
